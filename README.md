@@ -19,11 +19,11 @@ And I help where I can with humans coming up.
 We're all busy people, so on-demand help can be hard. The best way to get a session in the near term is to book a time with me via my calendly: https://calendly.com/raydeck/codementor
 
 ## 🔗 Links
-[Nocode consulting - Statechange](https://statechange.ai/)
-[![github](https://img.shields.io/github/stars/rhdeck?style=social)](https://github.com/rhdeck)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raydeck)
-[![twitter](https://img.shields.io/twitter/follow/ray_deck?style=social)](https://twitter.com/ray_deck)
-[![twitter](https://img.shields.io/youtube/channel/views/UCQThhHKZusZ2u9KDoevVlqQ?style=social)](https://www.youtube.com/channel/UCQThhHKZusZ2u9KDoevVlqQ)
+* [Nocode consulting - Statechange](https://statechange.ai/)
+* [![github](https://img.shields.io/github/stars/rhdeck?style=social)](https://github.com/rhdeck)
+* [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raydeck)
+* [![twitter](https://img.shields.io/twitter/follow/ray_deck?style=social)](https://twitter.com/ray_deck)
+* [![twitter](https://img.shields.io/youtube/channel/views/UCQThhHKZusZ2u9KDoevVlqQ?style=social)](https://www.youtube.com/channel/UCQThhHKZusZ2u9KDoevVlqQ)
 
 ## Other Common Github Profile Sections
 👩‍💻 I'm currently working on...
@@ -33,7 +33,7 @@ Helping people ship great no-code and low-code products
 Becoming a world-class teacher and coach.
 
 📫 How to reach me...
-[https://statechange.ai/request](Contact me on Statechage) with how I can help
+[Contact me on Statechage](https://statechange.ai/request) with how I can help
 
 😄 Pronouns...
 He/him
