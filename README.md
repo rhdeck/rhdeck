@@ -33,7 +33,7 @@ Helping people ship great no-code and low-code products
 Becoming a world-class teacher and coach.
 
 📫 How to reach me...
-[Contact me on Statechage](https://statechange.ai/request) with how I can help
+[Contact me on Statechange](https://statechange.ai/request) with how I can help
 
 😄 Pronouns...
 He/him
